@@ -1,2 +1,3 @@
-# Unity-Game-Roll-a-Ball
-Creating a Roll a Ball Game using Unity
+# Roll-a-Ball
+
+Creating a Roll-a-Ball Game using Unity.
